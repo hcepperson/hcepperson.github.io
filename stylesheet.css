@@ -21,6 +21,10 @@ h1
 
 }
 
+ul
+{
+    margin-bottom: 5px;
+}
 
 .navbar
 {
@@ -35,6 +39,7 @@ h1
 .container 
 {
 	margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 
