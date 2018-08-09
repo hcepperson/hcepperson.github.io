@@ -80,7 +80,35 @@ p2
     padding-left: 25px;
 }
 
-p3
-{
+p3 {
     padding-left: 25px;
+}
+
+.utTower {
+    text-align: center;
+    width: 275px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .utTower {
+        width: 576px;
+      }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .utTower {
+      width: 384px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
 }
